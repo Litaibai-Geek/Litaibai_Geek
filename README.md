@@ -1,8 +1,8 @@
-<img src="C:\Users\Administrator\Desktop\李白头像1.jpg" alt="李白头像1" style="zoom:50%;" />
+![](https://litaibai-img.oss-cn-shenzhen.aliyuncs.com/img/%E6%9D%8E%E7%99%BD%E5%A4%B4%E5%83%8F1.jpg)
 
 
 
-> 你好，我是李太白！
+> 十年磨一剑，你好，我是李太白！
 >
 > 恭喜你，发现一个宝藏仓库！
 >
