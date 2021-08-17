@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://litaibai-img.oss-cn-shenzhen.aliyuncs.com/img/%E6%9D%8E%E7%99%BD%E5%A4%B4%E5%83%8F1.jpg" style="zoom:50%;" />
+<img src="https://litaibai-img.oss-cn-shenzhen.aliyuncs.com/img/%E6%9D%8E%E7%99%BD%E5%A4%B4%E5%83%8F1.jpg" style="zoom:25%;" />
 </div>
+
 
 
 
