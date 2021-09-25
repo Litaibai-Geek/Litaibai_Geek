@@ -13,6 +13,11 @@
 
 ## :rocket:面试 ##
 
+## :space_invader:项目 ##
+
+| :globe_with_meridians:分布式电商项目 |      |      |      |
+| :----------------: | :--: | :--: | :--: |
+
 ## :coffee:Java基础 ##
 
 | :guardsman:集合 | :alien:多线程 | :no_mouth:NIO | :trident:注解和反射 | :moyai:JDK1.8 |
@@ -28,7 +33,6 @@
 | Spring | SpringMVC | Mybatis | Spring Boot | Spring Cloud |
 | :----: | :-------: | :-----: | :---------: | :----------: |
 
-##  ##
 
 ## :mortar_board:数据结构与算法 ##
 
